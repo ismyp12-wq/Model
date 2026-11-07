@@ -26,3 +26,14 @@ Live site: https://ismyp12-wq.github.io/Model/
 - Copyright and usage rights must be checked for third-party reference images before selling models.
 
 All files are available as a free static GitHub Pages site. No server needed.
+
+## AI Tools Hub · 36 แหล่งเครื่องมือ
+
+หน้าเว็บสำหรับรวมเครื่องมือสร้าง Minecraft `.bbmodel`, Image/Text to Mesh, ฟรีออนไลน์ Converter, Pixel Texture, โปรเจกต์โอเพนซอร์ส และเครื่องมือสร้างแมพ (แยกจาก Figura)
+
+- เปิด: **https://ismyp12-wq.github.io/Model/tools.html** (หลัง GitHub Pages deploy สำเร็จ)
+- จากหน้า Studio เลือกแท็บ **AI Tools** หรือปุ่ม **เลือกเว็บสร้างโมเดลอีก 36 แห่ง**
+- ค้นหา กรองหมวด ฟรี/เครดิตฟรี และติดดาวบันทึกเว็บโปรด (บันทึกใน `localStorage` ของ origin เดียวกับ Studio)
+- คัดลอก Prompt ร่างจาก AI Creator ใน Studio ไปวางเว็บภายนอกได้; ภาพอ้างอิงต้องอัปโหลดใหม่ตามเว็บไซต์นั้น
+- เว็บไซต์ทั้งหมดเป็นลิงก์ภายนอก ไม่มีการแชร์บัญชี/เครดิต และไม่เรียก API เบื้องหลัง
+

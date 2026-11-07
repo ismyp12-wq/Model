@@ -37,3 +37,10 @@ All files are available as a free static GitHub Pages site. No server needed.
 - คัดลอก Prompt ร่างจาก AI Creator ใน Studio ไปวางเว็บภายนอกได้; ภาพอ้างอิงต้องอัปโหลดใหม่ตามเว็บไซต์นั้น
 - เว็บไซต์ทั้งหมดเป็นลิงก์ภายนอก ไม่มีการแชร์บัญชี/เครดิต และไม่เรียก API เบื้องหลัง
 
+
+
+## My Model AI Engine (alpha)
+
+A new [My Model AI](./ai-model.html) page supports descriptions, reference images and generation requests that return editable `.bbmodel` files, with a structural preview and texture/complexity warnings.
+
+**Activation required:** GitHub Pages hosts only the frontend. The real AI provider is invoked by the [Python backend](./ai-engine/README.md), which must be started and hosted separately with secure HTTPS for use from GitHub Pages. The backend currently uses the open-source BlockSmith model compiler and a configurable AI/vision provider; it does **not** train a proprietary foundation model. Free quota, output fidelity and painted textures are not guaranteed. Do not expose provider API secrets in browser code or commit them to this repository.
